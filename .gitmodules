@@ -1,0 +1,6 @@
+[submodule "ElevatorProjectESE2018-WEB-PI-Interface"]
+	path = ElevatorProjectESE2018-WEB-PI-Interface
+	url = C:/Users/afritz4296/OneDrive/ElevatorProjectESE2018/ElevatorProjectESE2018-WEB-PI-Interface
+[submodule "Hardware-Interface"]
+	path = Hardware-Interface
+	url = https://github.com/frizzle101101/ElevatorProjectESE2018-Hardware-Interface
