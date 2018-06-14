@@ -7,3 +7,6 @@
 [submodule "WEB-PI-Interface"]
 	path = WEB-PI-Interface
 	url = https://github.com/frizzle101101/ElevatorProjectESE2018-WEB-PI-Interface
+[submodule "WEB-PI-MySQL"]
+	path = WEB-PI-MySQL
+	url = https://github.com/frizzle101101/ElevatorProjectESE2018-WEB-PI-MySQL
