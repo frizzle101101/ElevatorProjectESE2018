@@ -13,3 +13,6 @@
 [submodule "SQL-To-Hardware"]
 	path = SQL-To-Hardware
 	url = https://github.com/frizzle101101/ElevatorProjectESE2018-SQL-To-Hardware
+[submodule "WEB-PI-MySQL"]
+	path = WEB-PI-MySQL
+	url = https://github.com/frizzle101101/ElevatorProjectESE2018-WEB-PI-MySQL
